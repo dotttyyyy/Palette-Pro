@@ -13,9 +13,15 @@
 - **🎭 Smart Color Names** - AI-powered color naming for better organization
 - **✨ Beautiful Animations** - Smooth transitions and hover effects
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://dotttyyyy.github.io/Palette-Pro)
+
+**[⭐ Star this project](https://github.com/dotttyyyy/Palette-Pro)** if you find it useful!
+
+Made with ❤️ by [dotttyyyy](https://github.com/dotttyyyy)
+
 ## 🚀 Quick Start
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/palette-pro.git
-   cd palette-pro
+  git clone https://github.com/dotttyyyy/Palette-Pro.git
+cd Palette-Pro
