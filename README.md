@@ -21,7 +21,5 @@ Made with ❤️ by [dotttyyyy](https://github.com/dotttyyyy)
 
 ## 🚀 Quick Start
 
-1. **Clone the repository**
-   ```bash
-  git clone https://github.com/dotttyyyy/Palette-Pro.git
+git clone https://github.com/dotttyyyy/Palette-Pro.git
 cd Palette-Pro
